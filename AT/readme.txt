@@ -1,0 +1,1 @@
+http://adminui-v1.0.bittyfox.com/default/red/layout_blank_page.html
